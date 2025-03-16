@@ -1,4 +1,4 @@
-<img src="gihub background.png" alt="GitHub Banner" width="100%" />
+<img src="github background.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 👋 Hi, I’m Shridhar<br>🎓 Currently: BCA student at Mangalore University<br>💻 Focus: Full-stack web development, Python, and AI solutions<br>📝 Languages: Python, JavaScript, SQL<br>🛠️ Technologies:<br><br>Back-end: Django, Flask, Express.js<br>Front-end: React.js, HTML, CSS<br>Database: PostgreSQL, MySQL<br>Version Control: Git, GitHub<br>💡 Projects:<br>FitClub: Fitness tracker website<br>AI Chatbot: Fitness and diet assistant<br>❤️ Passion: Building scalable, efficient applications and exploring new technologies.
