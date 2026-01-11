@@ -3,7 +3,7 @@
 # 💫 About Me
 
 👋 Hi, I’m **Shridhar**  
-🎓 Currently: **BCA student at Mangalore University**  
+🎓 Currently: **MCA student at PES University** (formerly BCA at Mangalore University)  
 💻 Focus: **Full-stack web development, Python, and AI-driven solutions**  
 📝 Languages: **Python, JavaScript, SQL**  
 
@@ -18,8 +18,9 @@ Version Control: **Git, GitHub**
 **FitClub** – Smart fitness tracker website with AI-powered recommendations  
 **AI Chatbot** – Fitness & diet assistant using Flask and AI APIs  
 
-❤️ Passion: **Building scalable, efficient applications, solving real-world problems with technology, and continuously exploring new tools in AI, cloud, and data engineering.**
+🎯 Career Goal: **To become a skilled software engineer and data engineer, building intelligent systems that solve real-world problems.**
 
+❤️ Passion: **Building scalable, efficient applications, exploring AI and cloud technologies, and continuously improving my problem-solving skills.**
 ---
 
 ## 🌐 Socials
