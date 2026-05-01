@@ -3,6 +3,7 @@
 # 💫 About Me
 
 👋 Hi, I’m **Shridhar**   - An National Level Haclathon Winner
+
 🎓 Currently: **MCA student at PES University** (formerly BCA at Mangalore University)  
 💻 Focus: **Full-stack web development, Python, and AI-driven solutions**  
 📝 Languages: **Python, JavaScript, SQL**  
