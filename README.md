@@ -1,27 +1,27 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# 💫 About Me
+#  About Me
 
 👋 Hi, I’m **Shridhar**   - An National Level Haclathon Winner
 
-🎓 Currently: **MCA student at PES University** (formerly BCA at Mangalore University)  
-💻 Focus: **Full-stack web development, Python, and AI-driven solutions**  
-📝 Languages: **Python, JavaScript, SQL**  
+ Currently: **MCA student at PES University** (formerly BCA at Mangalore University)  
+ Focus: **Full-stack web development, Python, and AI-driven solutions**  
+ Languages: **Python, JavaScript, SQL**  
 
-🛠️ Technologies:  
+ Technologies:  
 
 Back-end: **Django, Flask, Express.js, REST APIs, Authentication Systems**  
 Front-end: **React.js, HTML5, CSS3, Responsive UI Design**  
 Database: **PostgreSQL, MySQL**  
 Version Control: **Git, GitHub**  
 
-💡 Projects:  
+ Projects:  
 **FitClub** – Smart fitness tracker website with AI-powered recommendations  
 **AI Chatbot** – Fitness & diet assistant using Flask and AI APIs  
 
-🎯 Career Goal: **To become a skilled software engineer and data engineer, building intelligent systems that solve real-world problems.**
+ Career Goal: **To become a skilled software engineer and data engineer, building intelligent systems that solve real-world problems.**
 
-❤️ Passion: **Building scalable, efficient applications, exploring AI and cloud technologies, and continuously improving my problem-solving skills.**
+ Passion: **Building scalable, efficient applications, exploring AI and cloud technologies, and continuously improving my problem-solving skills.**
 ---
 
 ## 🌐 Socials
