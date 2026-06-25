@@ -1,15 +1,22 @@
 <img src="banner.png" width="100%" alt="GitHub Banner"/>
 
-<h1 align="center">Hi 👋, I'm Shridhar Bhat</h1>
+<h2 align="center">Hi 👋 I'm Shridhar Bhat</h2>
 
-<h3 align="center">
-🏆 National Level Hackathon Winner <br>
-MCA Student @ PES University • Software Development Enthusiast • AI & Data Engineering Learner
-</h3>
+<p align="center">
+🏆 <strong>National Level Hackathon Winner</strong>
+</p>
+
+<p align="center">
+🎓 MCA Student @ PES University
+</p>
+
+<p align="center">
+💻 Software Development Enthusiast • 🤖 AI & Data Engineering Learner
+</p>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;AI+Application+Builder;Future+Data+Engineer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=MCA+Student+%40+PES+University+%E2%80%A2+Software+Development+Enthusiast+%E2%80%A2+AI+%26+Data+Engineering+Learner)](https://git.io/typing-svg)
 
 </p>
 
