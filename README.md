@@ -1,83 +1,239 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner.png" width="100%" alt="GitHub Banner"/>
 
-#  About Me
+<h1 align="center">Hi 👋, I'm Shridhar Bhat</h1>
 
-👋 Hi, I’m **Shridhar**   - An National Level Hackathon Winner
+<h3 align="center">
+National Level Hackathon Winner 🏆 <br>
+Full Stack Developer • AI Enthusiast • Future Data Engineer
+</h3>
 
- Currently: **MCA student at PES University** (formerly BCA at Mangalore University)  
- Focus: **Full-stack web development, Python, and AI-driven solutions**  
- Languages: **Python, JavaScript, SQL**  
+<p align="center">
 
- Technologies:  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;AI+Application+Builder;Future+Data+Engineer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-Back-end: **Django, Flask, Express.js, REST APIs, Authentication Systems**  
-Front-end: **React.js, HTML5, CSS3, Responsive UI Design**  
-Database: **PostgreSQL, MySQL**  
-Version Control: **Git, GitHub**  
+</p>
 
- Projects:  
-**FitClub** – Smart fitness tracker website with AI-powered recommendations  
-**AI Chatbot** – Fitness & diet assistant using Flask and AI APIs  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shridhar618&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+<img src="https://img.shields.io/github/followers/shridhar618?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/shridhar618?affiliations=OWNER&style=social"/>
+</p>
 
- Career Goal: **To become a skilled software engineer and data engineer, building intelligent systems that solve real-world problems.**
-
- Passion: **Building scalable, efficient applications, exploring AI and cloud technologies, and continuously improving my problem-solving skills.**
 ---
 
-## 🌐 Socials
+# 👨‍💻 About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shridhar.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shridhar-bhat-bb3410290)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shridharbhat618@gmail.com)
+🎓 MCA Student at **PES University**
+
+🏆 National Level Hackathon Winner
+
+🚀 Deloitte Capstone Project Leader
+
+💻 Passionate about Full Stack Development, Artificial Intelligence and Data Engineering.
+
+🌱 Currently learning
+
+- Data Engineering
+- Cloud Computing
+- System Design
+- Machine Learning
+
+🎯 Career Goal
+
+To become a Software Engineer / Data Engineer building scalable systems that solve real-world problems.
+
+---
+
+# 🏆 Achievements
+
+🥇 National Level Hackathon Winner
+
+🚀 Deloitte Capstone Project Leader
+
+🎓 MCA Student @ PES University
+
+💡 Built multiple Full Stack & AI-powered applications
+
+🌟 Passionate Open Source Learner
+
+---
+
+# 🚀 Featured Projects
+
+## 🏋️ FitClub
+
+AI-powered Fitness Tracking Platform
+
+### Features
+
+- Workout Planner
+- BMI Calculator
+- AI Fitness Recommendation
+- User Authentication
+- Responsive Dashboard
+
+**Tech Stack**
+
+React • Flask • PostgreSQL
+
+---
+
+## 🤖 AI Fitness Chatbot
+
+An AI assistant that provides
+
+- Diet Plans
+- Workout Suggestions
+- Fitness Guidance
+- AI Chat Interface
+
+**Tech**
+
+Python • Flask • AI APIs
+
+---
+
+## 🛡 FraudShield AI
+
+Machine Learning based Credit Card Fraud Detection System
+
+### Features
+
+- Fraud Prediction
+- ML Classification
+- Beautiful Dashboard
+- Real-time Predictions
+
+**Tech**
+
+Flask • Scikit-Learn • Pandas • NumPy
 
 ---
 
 # 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+## Languages
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,php,r,mysql"/>
+</p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Frontend
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+</p>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## Backend
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express"/>
+</p>
 
----
+## Database
 
-# 📊 GitHub Stats
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=shridhar618&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=shridhar618&theme=dark&hide_border=false)
+## Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+</p>
 
 ---
 
-## 🚀 Vision
+# 📈 GitHub Analytics
 
-> *“I don’t need validation, just time to prove myself.”*  
+<p align="center">
 
-I aim to become a **top-tier software engineer & data engineer**, building systems that are:  
-⚡ Fast • 🔐 Secure • 📈 Scalable • 🎯 User-focused
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shridhar618&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhar618&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=shridhar618&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shridhar618&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shridhar618&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Data Structures & Algorithms
+
+✅ Build Production-Ready Full Stack Projects
+
+☁️ Learn AWS Cloud
+
+📊 Learn Apache Spark & Kafka
+
+🤝 Contribute to Open Source
+
+💼 Secure a Software Engineering Internship
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/shridhar-bhat-bb3410290">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shridharbhat618@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/shridhar.io">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Success is built one commit, one bug fix, and one lesson at a time."*
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</h3>
