@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Shridhar Bhat</h1>
 
 <h3 align="center">
-National Level Hackathon Winner 🏆 <br>
-Full Stack Developer • AI Enthusiast • Future Data Engineer
+🏆 National Level Hackathon Winner <br>
+MCA Student @ PES University • Software Development Enthusiast • AI & Data Engineering Learner
 </h3>
 
 <p align="center">
