@@ -16,7 +16,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=MCA+Student+%40+PES+University+%E2%80%A2+Software+Development+Enthusiast+%E2%80%A2+AI+%26+Data+Engineering+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=MCA+Student+%40+PES+University+%E2%80%A2+Software+Development+Enthusiast+%E2%80%A2+AI+%26+Data+Engineering+Learner)](https://git.io/typing-svg)
 
 </p>
 
