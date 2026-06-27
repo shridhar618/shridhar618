@@ -41,7 +41,7 @@
 🌱 Currently learning
 
 - Data Engineering
-- Cloud Computing
+- Full-Stack Development
 - System Design
 - Machine Learning
 
