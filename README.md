@@ -86,19 +86,6 @@ Tech Stack
 
 Python • FastAPI • React • PostgreSQL • LangChain • FAISS • Hugging Face • LLM APIs
 
-## 🤖 AI Fitness Chatbot
-
-An AI assistant that provides
-
-- Diet Plans
-- Workout Suggestions
-- Fitness Guidance
-- AI Chat Interface
-
-**Tech**
-
-Python • Flask • AI APIs
-
 ---
 
 🚀 AuditOS – Autonomous Financial Compliance Co-pilot (Deloitte Capstone Project)
