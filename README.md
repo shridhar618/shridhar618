@@ -67,23 +67,24 @@ To become a Software Engineer / Data Engineer building scalable systems that sol
 
 # 🚀 Featured Projects
 
-## 🏋️ FitClub
+🤖 AI Governance Chatbot
 
-AI-powered Fitness Tracking Platform
+An enterprise-grade AI assistant designed to help organizations understand and implement responsible AI practices by providing guidance on AI governance, compliance, risk management, and regulatory frameworks.
 
-### Features
+Features
 
-- Workout Planner
-- BMI Calculator
-- AI Fitness Recommendation
-- User Authentication
-- Responsive Dashboard
+* AI Governance & Policy Guidance
+* Regulatory Compliance Support (EU AI Act, GDPR, ISO/IEC Standards)
+* Risk Assessment & Mitigation Recommendations
+* Responsible AI Best Practices
+* Explainable AI (XAI) Assistance
+* Natural Language Question Answering
+* Document-Based Knowledge Retrieval (RAG)
+* Interactive Conversational Interface
 
-**Tech Stack**
+Tech Stack
 
-React • Flask • PostgreSQL
-
----
+Python • FastAPI • React • PostgreSQL • LangChain • FAISS • Hugging Face • LLM APIs
 
 ## 🤖 AI Fitness Chatbot
 
