@@ -101,20 +101,32 @@ Python • Flask • AI APIs
 
 ---
 
-## 🛡 FraudShield AI
+🚀 AuditOS – Autonomous Financial Compliance Co-pilot (Deloitte Capstone Project)
 
-Machine Learning based Credit Card Fraud Detection System
+An AI-powered compliance platform that assists organizations in automating financial compliance workflows, identifying potential regulatory risks, and providing intelligent insights for faster and more accurate decision-making.
 
-### Features
+Features
 
-- Fraud Prediction
-- ML Classification
-- Beautiful Dashboard
-- Real-time Predictions
+* AI-Powered Financial Compliance Analysis
+* Automated Regulatory Requirement Mapping
+* Risk Detection & Compliance Monitoring
+* Intelligent Document Search (RAG)
+* Policy & Audit Question Answering
+* Compliance Dashboard & Analytics
+* Explainable AI Recommendations
+* Secure Role-Based User Authentication
 
-**Tech**
+Tech Stack
 
-Flask • Scikit-Learn • Pandas • NumPy
+React • FastAPI • Python • PostgreSQL • LangChain • FAISS • Hugging Face • LLM APIs • Docker
+
+Project Highlights
+
+* 🎯 Developed as part of the Deloitte Capstone Project 2026
+* 👨‍💼 Leading a multidisciplinary development team
+* 🤖 Built using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs)
+* 📊 Focused on automating financial compliance and improving audit efficiency
+* 🔒 Designed with scalability, security, and enterprise use cases in mind
 
 ---
 
