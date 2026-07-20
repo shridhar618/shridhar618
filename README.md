@@ -34,7 +34,7 @@
 
 🏆 National Level Hackathon Winner
 
-🚀 Deloitte Capstone Project Leader
+🚀 Working on Deloitte Capstone Project
 
 💻 Passionate about Full Stack Development, Artificial Intelligence and Data Engineering.
 
