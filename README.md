@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" alt="GitHub Banner"/>
+<!-- <img src="banner.png" width="100%" alt="GitHub Banner"/> -->
 
 <h2 align="center">Hi 👋 I'm Shridhar Bhat</h2>
 
@@ -157,27 +157,11 @@ Project Highlights
 
 ---
 
-# 📈 GitHub Analytics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shridhar618&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhar618&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=shridhar618&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
-<p align="center">
+<!-- <p align="center"> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shridhar618&theme=tokyo-night"/>
 
