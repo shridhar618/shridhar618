@@ -1,230 +1,245 @@
-<!-- <img src="banner.png" width="100%" alt="GitHub Banner"/> -->
+<!-- ============================== -->
+<!--         HERO SECTION          -->
+<!-- ============================== -->
 
-<h2 align="center">Hi 👋 I'm Shridhar Bhat</h2>
+<h1 align="center">Hi 👋, I'm Shridhar Bhat</h1>
+
+<h3 align="center">
+Software Engineer • AI Engineer • Data Engineering Enthusiast
+</h3>
 
 <p align="center">
-🏆 <strong>National Level Hackathon Winner</strong>
+Building intelligent software using AI, scalable backend systems, and modern full-stack technologies.
 </p>
 
 <p align="center">
-🎓 MCA Student @ PES University
-</p>
 
-<p align="center">
-💻 Software Development Enthusiast • 🤖 AI & Data Engineering Learner
-</p>
-
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=MCA+Student+%40+PES+University+%E2%80%A2+Software+Development+Enthusiast+%E2%80%A2+AI+%26+Data+Engineering+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+Engineer;Data+Engineering+Enthusiast;Building+Scalable+AI+Applications;FastAPI+•+React+•+Python+•+PostgreSQL;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shridhar618&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
-<img src="https://img.shields.io/github/followers/shridhar618?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/shridhar618?affiliations=OWNER&style=social"/>
+
+<img src="https://komarev.com/ghpvc/?username=shridhar618&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/shridhar618?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/shridhar618?style=for-the-badge"/>
+
 </p>
+
+---
+
+# 🚀 Professional Highlights
+
+🏆 National Level Hackathon Winner
+
+🚀 Deloitte Capstone Project Leader
+
+🤖 AI & Full Stack Developer
+
+📊 Data Engineering Enthusiast
+
+💡 Passionate about solving real-world problems through scalable software
+
+⚡ Strong interest in Distributed Systems, AI and Cloud Computing
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 MCA Student at **PES University**
+I'm a Software Developer passionate about building scalable applications powered by Artificial Intelligence, Data Engineering, and modern backend technologies.
 
-🏆 National Level Hackathon Winner
+I enjoy solving real-world engineering problems by designing clean architectures, intelligent AI systems, and high-performance web applications.
 
-🚀 Working on Deloitte Capstone Project
+Currently, I'm leading an industry-focused Deloitte Capstone Project while continuously improving my expertise in Software Engineering, Machine Learning, Data Engineering, and System Design.
 
-💻 Passionate about Full Stack Development, Artificial Intelligence and Data Engineering.
-
-🌱 Currently learning
-
-- Data Engineering
-- Full-Stack Development
-- System Design
-- Machine Learning
-
-🎯 Career Goal
-
-To become a Software Engineer / Data Engineer building scalable systems that solve real-world problems.
+I enjoy participating in hackathons, building end-to-end software products, exploring new technologies, and continuously sharpening my problem-solving skills through Data Structures & Algorithms.
 
 ---
 
-# 🏆 Achievements
+# 🎯 Areas of Interest
 
-🥇 National Level Hackathon Winner
+- Software Engineering
+- Artificial Intelligence
+- Full Stack Development
+- Data Engineering
+- Machine Learning
+- System Design
+- Distributed Systems
+- Cloud Computing
+- Backend Engineering
+- Open Source
 
-🚀 Deloitte Capstone Project Leader
+---
 
-🎓 MCA Student @ PES University
+# 💼 Tech Expertise
 
-💡 Built multiple Full Stack & AI-powered applications
+### Software Development
 
-🌟 Passionate Open Source Learner
+- Full Stack Development
+- Backend Development
+- REST API Design
+- Authentication & Authorization
+- Database Design
+- Responsive UI Development
+
+### Artificial Intelligence
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Assistants
+- Semantic Search
+- Prompt Engineering
+- Vector Databases
+
+### Data Engineering
+
+- Apache Spark
+- PySpark
+- Apache Kafka
+- ETL Pipelines
+- Data Processing
+- SQL Optimization
+
+### DevOps & Cloud
+
+- Docker
+- Git & GitHub
+- AWS (Learning)
+- CI/CD Concepts
 
 ---
 
 # 🚀 Featured Projects
 
-🤖 AI Governance Chatbot
+## 🚀 AuditOS — Autonomous Financial Compliance Co-pilot
 
-An enterprise-grade AI assistant designed to help organizations understand and implement responsible AI practices by providing guidance on AI governance, compliance, risk management, and regulatory frameworks.
+> AI-powered enterprise platform built for Deloitte Capstone 2026 that automates financial compliance, regulatory mapping, document intelligence, and audit workflows.
 
-Features
+### Key Features
 
-* AI Governance & Policy Guidance
-* Regulatory Compliance Support (EU AI Act, GDPR, ISO/IEC Standards)
-* Risk Assessment & Mitigation Recommendations
-* Responsible AI Best Practices
-* Explainable AI (XAI) Assistance
-* Natural Language Question Answering
-* Document-Based Knowledge Retrieval (RAG)
-* Interactive Conversational Interface
+- AI-powered compliance analysis
+- Regulatory requirement mapping
+- Intelligent policy search
+- Retrieval-Augmented Generation (RAG)
+- Financial document intelligence
+- Explainable AI recommendations
+- Compliance dashboard
+- Risk monitoring
+- Role-based authentication
+- Dockerized deployment
 
-Tech Stack
+### Tech Stack
 
-Python • FastAPI • React • PostgreSQL • LangChain • FAISS • Hugging Face • LLM APIs
-
----
-
-🚀 AuditOS – Autonomous Financial Compliance Co-pilot (Deloitte Capstone Project)
-
-An AI-powered compliance platform that assists organizations in automating financial compliance workflows, identifying potential regulatory risks, and providing intelligent insights for faster and more accurate decision-making.
-
-Features
-
-* AI-Powered Financial Compliance Analysis
-* Automated Regulatory Requirement Mapping
-* Risk Detection & Compliance Monitoring
-* Intelligent Document Search (RAG)
-* Policy & Audit Question Answering
-* Compliance Dashboard & Analytics
-* Explainable AI Recommendations
-* Secure Role-Based User Authentication
-
-Tech Stack
-
-React • FastAPI • Python • PostgreSQL • LangChain • FAISS • Hugging Face • LLM APIs • Docker
-
-Project Highlights
-
-* 🎯 Developed as part of the Deloitte Capstone Project 2026
-* 👨‍💼 Leading a multidisciplinary development team
-* 🤖 Built using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs)
-* 📊 Focused on automating financial compliance and improving audit efficiency
-* 🔒 Designed with scalability, security, and enterprise use cases in mind
+`Python` • `FastAPI` • `React` • `PostgreSQL` • `LangChain` • `FAISS` • `Docker` • `JWT` • `LLMs`
 
 ---
 
-# 💻 Tech Stack
+## 🤖 SecureAI Governance Platform
 
-## Languages
+> Enterprise AI Governance Assistant helping organizations adopt Responsible AI through intelligent policy guidance, compliance support, and governance automation.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,php,r,mysql"/>
-</p>
+### Key Features
 
-## Frontend
+- Responsible AI Guidance
+- AI Governance
+- Risk Assessment
+- Compliance Monitoring
+- EU AI Act Support
+- GDPR Guidance
+- ISO Standards
+- RAG-based Knowledge Search
+- Interactive AI Assistant
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
-</p>
+### Tech Stack
 
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
-</p>
-
-## Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
-</p>
+`Python` • `FastAPI` • `React` • `LangChain` • `FAISS` • `PostgreSQL` • `HuggingFace`
 
 ---
 
+## 📈 DemandSense AI
 
+> AI-powered Demand Forecasting & Supply Chain Intelligence platform designed to improve inventory planning and business decision-making.
 
-# 📊 Contribution Graph
+### Key Features
 
-<!-- <p align="center"> -->
+- Demand Forecasting
+- Inventory Optimization
+- Prophet Forecasting
+- XGBoost Prediction
+- Interactive Dashboard
+- Business Analytics
+- Real-time Insights
+- Data Visualization
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shridhar618&theme=tokyo-night"/>
+### Tech Stack
 
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shridhar618&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Data Structures & Algorithms
-
-✅ Build Production-Ready Full Stack Projects
-
-☁️ Learn AWS Cloud
-
-📊 Learn Apache Spark & Kafka
-
-🤝 Contribute to Open Source
-
-💼 Secure a Software Engineering Internship
+`Python` • `FastAPI` • `React` • `PostgreSQL` • `Prophet` • `XGBoost` • `Docker`
 
 ---
 
-# 🌐 Connect With Me
+## 🛡 FraudShield AI
 
-<p align="left">
+> Machine Learning-powered Credit Card Fraud Detection platform capable of detecting suspicious financial transactions in real time.
 
-<a href="https://linkedin.com/in/shridhar-bhat-bb3410290">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+### Key Features
 
-<a href="mailto:shridharbhat618@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+- Fraud Prediction
+- Machine Learning Classification
+- Transaction Risk Analysis
+- Interactive Dashboard
+- Real-time Prediction
+- Data Visualization
 
-<a href="https://instagram.com/shridhar.io">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+### Tech Stack
 
-</p>
-
----
-
-# 💡 Quote
-
-> *"Success is built one commit, one bug fix, and one lesson at a time."*
+`Python` • `Flask` • `Machine Learning` • `Scikit-Learn` • `HTML` • `CSS`
 
 ---
 
-<h3 align="center">
+## 📚 AI Study Companion
 
-⭐ Thanks for visiting my profile! ⭐
+> Intelligent AI learning assistant that helps students interact with educational content using modern Retrieval-Augmented Generation.
 
-If you like my work, consider giving a ⭐ to my repositories.
+### Key Features
 
-</h3>
+- AI Tutor
+- PDF Question Answering
+- Smart Notes Generator
+- Quiz Generation
+- Semantic Search
+- Personalized Learning
+
+### Tech Stack
+
+`FastAPI` • `React` • `LangChain` • `FAISS` • `Python`
+
+---
+
+## 📦 Inventory Intelligence Platform
+
+> AI-driven inventory management system that predicts stock demand, tracks inventory, and provides actionable business insights.
+
+### Key Features
+
+- Inventory Analytics
+- Demand Prediction
+- Warehouse Monitoring
+- Business Dashboard
+- Smart Reporting
+
+### Tech Stack
+
+`Python` • `FastAPI` • `React` • `PostgreSQL`
+
+---
+
+# 🌟 Current Focus
+
+- Building Production-Ready AI Applications
+- Mastering Data Structures & Algorithms
+- Learning Apache Spark & Kafka
+- Exploring Distributed Systems
+- Improving System Design Skills
+- Learning AWS Cloud
