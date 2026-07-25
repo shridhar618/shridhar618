@@ -361,11 +361,11 @@ I enjoy participating in hackathons, building end-to-end software products, expl
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shridhar618&theme=tokyonight&row=1&column=7&margin-w=15"/>
 
-</p>
+</p> -->
 
 ---
 
