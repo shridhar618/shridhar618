@@ -34,7 +34,7 @@ Building intelligent software using AI, scalable backend systems, and modern ful
 
 🏆 National Level Hackathon Winner
 
-🚀 Deloitte Capstone Project Leader
+🚀 Working on Delloite Capestone Project
 
 🤖 AI & Full Stack Developer
 
