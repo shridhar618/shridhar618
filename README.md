@@ -329,13 +329,13 @@ I enjoy participating in hackathons, building end-to-end software products, expl
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center"> -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shridhar618&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=shridhar618&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhar618&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhar618&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
-</p>
+<!-- </p> -->
 
 ---
 
@@ -525,7 +525,7 @@ My long-term goal is to work as a Software Engineer / AI Engineer / Data Enginee
 
 # 🌍 Let's Connect
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://linkedin.com/in/shridhar-bhat-bb3410290">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
@@ -551,7 +551,7 @@ My long-term goal is to work as a Software Engineer / AI Engineer / Data Enginee
 
 </p>
 
----
+--- -->
 
 # 💭 Developer Philosophy
 
