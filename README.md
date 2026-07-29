@@ -226,9 +226,9 @@ Machine learning application for credit card fraud detection.
 <!--            GITHUB ANALYTICS               -->
 <!-- ========================================= -->
 
-# 📊 GitHub Analytics
+<!--# 📊 GitHub Analytics>
 
-<p align="center">
+<!-- <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shridhar618&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
@@ -242,7 +242,7 @@ Machine learning application for credit card fraud detection.
 
 </p>
 
----
+--- -->
 
 # 📈 Contribution Graph
 
@@ -263,9 +263,9 @@ Machine learning application for credit card fraud detection.
 
 ---
 
-# 📫 Connect With Me
+<!--# 📫 Connect With Me>
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://github.com/shridhar618">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
@@ -285,7 +285,7 @@ Machine learning application for credit card fraud detection.
 
 </p>
 
----
+--- -->
 
 <p align="center">
 
