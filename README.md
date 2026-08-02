@@ -132,7 +132,7 @@ Enterprise AI platform for financial compliance, regulatory intelligence and doc
 
 `FastAPI` `React` `PostgreSQL`
 
-`LangChain` `FAISS` `Docker`
+`LangChain` `Qdrant` `Docker`
 
 🔗 **Repository:** *Coming Soon*
 
