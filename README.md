@@ -152,7 +152,7 @@ AI-powered demand forecasting and supply chain intelligence platform.
 
 `PostgreSQL`
 
-🔗 **Repository:** *Coming Soon*
+🔗 **Repository: https://github.com/shridhar618/demandsense
 
 </td>
 
