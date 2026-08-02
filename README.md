@@ -35,7 +35,7 @@ Building scalable software with Artificial Intelligence, Backend Engineering and
 
 <img src="https://img.shields.io/github/followers/shridhar618?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/shridhar618?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/github/stars/shridhar618?style=for-the-badge"/> -->
 
 </p>
 
