@@ -244,7 +244,8 @@ Machine learning application for credit card fraud detection.
 
 --- -->
 
-# 📈 Contribution Graph
+
+ 
 
 <!-- <p align="center">
 
