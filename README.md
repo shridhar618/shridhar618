@@ -246,13 +246,13 @@ Machine learning application for credit card fraud detection.
 
 # 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shridhar618&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
----
+--- -->
 
 # 🏆 Achievements
 
