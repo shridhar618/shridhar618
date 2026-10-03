@@ -134,7 +134,7 @@ Enterprise AI platform for financial compliance, regulatory intelligence and doc
 
 `LangChain` `Qdrant` `Docker`
 
-🔗 **Repository:** *Coming Soon*
+🔗 **Repository: https://github.com/shridhar618/auditos-foundation
 
 </td>
 
